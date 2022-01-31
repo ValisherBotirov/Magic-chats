@@ -444,8 +444,10 @@ main {
 }
 
 .icons-left-rightBottom {
+  width: 9%;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 /* css disign for icons */
@@ -473,5 +475,34 @@ main {
 }
 
 .into-icon-1 {
-  display: inline-block;
+  /* display: flex;
+  align-items: center; */
+}
+
+.icon1-iconFlex {
+  width: 19%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.icon2-iconFlex {
+  width: 19%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.icon3-iconFlex {
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btnFilters {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
 }
