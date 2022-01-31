@@ -33,6 +33,39 @@ header {
   justify-content: space-between;
 }
 
+.iconHeader-leftIcon {
+  width: 25%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.iconHeader-midleIcon {
+  width: 32%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.iconHeader-rightIcon {
+  width: 27%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.searchBox span {
+  position: absolute;
+  top: 1.2rem;
+  left: 6.5rem;
+}
+
+.padding-icon {
+  padding-top: 1rem;
+}
+
+.icon-remember {
+  padding-bottom: -1rem;
+  width: 4.3rem;
+}
+
 .searchBox {
   width: 28rem;
   height: 4rem;
@@ -40,6 +73,7 @@ header {
   border-radius: 2rem;
   background-color: #f0f2f5;
   padding: 0.9rem 3.5rem;
+  position: relative;
 }
 
 .banner {
