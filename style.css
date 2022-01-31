@@ -451,10 +451,6 @@ main {
 }
 
 /* css disign for icons */
-.icon-mesText span {
-  /* padding-top: 1rem;
-  margin-top: 5rem; */
-}
 
 .box-icon-2 {
   display: flex;
@@ -505,4 +501,22 @@ main {
   align-items: center;
   justify-content: center;
   gap: 0.5rem;
+}
+
+.icon-bottomFlex {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.one-iconBottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  column-gap: 0.5rem;
+}
+
+.hr-rightFlex-bottom {
+  color: #e4e6eb;
+  margin: 1.3rem 0;
 }
