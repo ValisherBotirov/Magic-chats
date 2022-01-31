@@ -447,3 +447,27 @@ main {
   display: flex;
   justify-content: space-between;
 }
+
+/* css disign for icons */
+.icon-mesText span {
+  /* padding-top: 1rem;
+  margin-top: 5rem; */
+}
+
+.box-icon-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box-icon-3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box-icon-4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
