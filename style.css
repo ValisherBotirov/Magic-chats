@@ -520,3 +520,7 @@ main {
   color: #e4e6eb;
   margin: 1.3rem 0;
 }
+
+.icon-media {
+  display: none;
+}

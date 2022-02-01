@@ -1,0 +1,18 @@
+@media (max-width: 900px) {
+  .icon-right {
+    display: none;
+  }
+  .icon-media {
+    display: inline-block;
+    margin: 0.7rem 14rem;
+  }
+
+  .bannerAvatar {
+    left: 36.8rem;
+  }
+
+  .banner .sqrAvatar {
+    width: 15rem;
+    height: 15rem;
+  }
+}
