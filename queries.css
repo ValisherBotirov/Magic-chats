@@ -93,4 +93,59 @@
     top: 0.9rem;
     right: -10rem;
   }
+
+  .bannerAvatar {
+    left: 18.8rem;
+  }
+
+  .banner .sqrAvatar {
+    width: 12rem;
+    height: 12rem;
+  }
+
+  .bannerAvatar h2 {
+    font-size: 2rem;
+    padding-top: 0.4rem;
+    padding-left: 0.6rem;
+  }
+
+  .right-icons {
+    width: 70%;
+    margin: 1.2rem 0;
+    margin-left: auto;
+  }
+  .left-menyu {
+    width: 100%;
+  }
+
+  .bannerBottom {
+    flex-wrap: wrap;
+  }
+
+  .banner {
+    height: auto;
+  }
+
+  .bigFlex {
+    display: grid;
+    grid-template-columns: 1fr;
+    column-gap: 1.5rem;
+  }
+
+  .leftFlex,
+  .rightFlex {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: auto;
+    gap: 1.5rem;
+  }
+
+  main {
+    height: auto;
+    padding-bottom: 1.5rem;
+  }
+  .contaner {
+    width: 90%;
+    margin: 0 auto;
+  }
 }
