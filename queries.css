@@ -15,4 +15,56 @@
     width: 15rem;
     height: 15rem;
   }
+
+  .right-icons {
+    width: 38%;
+  }
+
+  .left-menyu {
+    width: 52%;
+  }
+
+  .boxText-rightFlex {
+    width: 34.2rem;
+  }
+
+  .iconFlex-rightFlex {
+    justify-content: space-around;
+    padding-bottom: 1rem;
+  }
+
+  .icon1-iconFlex {
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .icon2-iconFlex {
+    width: 22%;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .icon3-iconFlex {
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+  }
+
+  .intro-text {
+    padding: 0.9rem 1.5rem;
+  }
+
+  .text-rightBottom {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+  }
+
+  .small-flex {
+    margin-top: 1rem;
+  }
+
+  .boxPhotos-grid {
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 2.5rem;
+  }
 }
